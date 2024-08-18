@@ -316,8 +316,8 @@ margin-bottom: 36px;
 
 .about-list li{
     width: 48%;
-    /* width: calc(50% - 12px); */
     box-shadow: 4px 4px 4px 0 rgba(0,0,0,0.08);
+    /* width: calc(50% - 12px); 用計算的方式*/ 
 }
 
 /* contact */
